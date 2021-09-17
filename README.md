@@ -1,2 +1,4 @@
 # practica_F1
-datos
+Este archivo contiene mis datos. 
+Carro López Juan Manuel
+Facultad de ingeniera UNAM
